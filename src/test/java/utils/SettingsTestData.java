@@ -4,8 +4,8 @@ import aquality.selenium.browser.AqualityServices;
 import aquality.selenium.core.utilities.ISettingsFile;
 import aquality.selenium.core.utilities.JsonSettingsFile;
 import com.google.gson.Gson;
+import models.*;
 import lombok.experimental.UtilityClass;
-import models.EnvData;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
