@@ -3,17 +3,17 @@
 ## Description
 Various Testing Scenarios were conductted on the ...
 
-https://the-internet.herokuapp.com/
-AccuWeather
-Wikipedia
-W3School
+- [Test Website]([https://pages.github.com/](https://the-internet.herokuapp.com/)
+- AccuWeather
+- Wikipedia
+- W3School
 
 Using ...
-Selenium Only
-Aquality Framework
-Behavior-Driven Development (BDD) using Cucumber Gherkin
-Data-Driven Test
-Jenkins for CI/CD Development
+- Selenium 
+- Aquality Framework
+- Behavior-Driven Development (BDD) using Cucumber Gherkin
+- Data-Driven Test
+- Jenkins for CI/CD Development
 
 ## Technologies Used
 Programming Languages: Java & C# (choose one for your project)
