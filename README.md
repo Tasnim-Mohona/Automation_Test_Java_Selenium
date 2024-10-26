@@ -3,7 +3,7 @@
 ## Description
 Various Testing Scenarios were conductted on the ...
 
-- [Test Website]([https://pages.github.com/](https://the-internet.herokuapp.com/)
+- [Test Website](https://the-internet.herokuapp.com/)
 - AccuWeather
 - Wikipedia
 - W3School
